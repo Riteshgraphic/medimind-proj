@@ -1,0 +1,2 @@
+# medimind-proj
+College project
